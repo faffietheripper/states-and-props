@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Practice stats and props use by patting picture and changing number of pats
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
